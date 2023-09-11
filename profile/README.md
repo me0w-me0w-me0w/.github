@@ -1,4 +1,5 @@
-![](./VOID.png)
+<img src="VOID.png" width="100%" />
+
 ---
 
 <img align="left" width="40%" src="https://64.media.tumblr.com/9a8f71b5788e072a714a8de957d4af53/210cf2bbe6f7a52a-c1/s1280x1920/b2e846f94fb0c5d35eb898ea98a1dd96fb2368d4.gifv">
@@ -11,7 +12,7 @@
 ##### - Piyush
 
 ### Techstack
-💙 React , 💜 Linux  , 🤍 Tailwind , 💚 Nuxt 
+💙 React , 💜 Linux  , 🩵 Tailwind , 💚 Node , 🤎 Sublime Text
 
 <!--
 
