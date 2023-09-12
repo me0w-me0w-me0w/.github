@@ -28,6 +28,7 @@
 <br/><br/><br/>
 
 ## Project
+- [🐱 Pet](https://me0w-me0w-me0w.github.io/kagad/)
 - [✏️ Kagad](https://me0w-me0w-me0w.github.io/kagad/)
 - 
 
