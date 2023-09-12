@@ -1,4 +1,4 @@
-<img src="./VOID.png" width="100%" />
+<img src="/profile/VOID.png" width="100%" />
 
 ---
 
